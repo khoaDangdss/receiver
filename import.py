@@ -4,7 +4,7 @@ import requests
 
 # ==== CONFIG ====
 # Replace this with your actual Bot Token
-TOKEN = "MTQzOTU4NjQ2OTY1MTE1MjkyNg.G0d2cP.q8CupYxF44XC3UqkmEZyG7u-SeguIN-P_o7e4E" 
+TOKEN = "MTQzOTU4NjQ2OTY1MTE1MjkyNg.G3S8v3.4zpt3jTBYxqbzUoDnwr8Hux7qleUnC2LGbOt3Y" 
 # CORRECTED: Includes the /api/botdata path
 WEB_ENDPOINT = "https://receiver-th57.onrender.com/api/botdata" 
 
